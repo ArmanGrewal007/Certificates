@@ -1,20 +1,20 @@
 # Certificates
 
-Hackerrank - 
-Python - https://www.hackerrank.com/certificates/fe98a6e0989d
-CSS - https://www.hackerrank.com/certificates/0be2d2ab8024
-Java - https://www.hackerrank.com/certificates/b9e7972d688c
-SQL(basic) - https://www.hackerrank.com/certificates/1d9c13b18d30
-SQL(intermediate) - https://www.hackerrank.com/certificates/a4289f17be07
-SQL (advanced) -  
+Hackerrank - https://www.hackerrank.com/profile/armansinghgrewal <br>
+1. Python - https://www.hackerrank.com/certificates/fe98a6e0989d <br>
+2. CSS - https://www.hackerrank.com/certificates/0be2d2ab8024 <br>
+3. Java - https://www.hackerrank.com/certificates/b9e7972d688c <br>
+4. SQL(basic) - https://www.hackerrank.com/certificates/1d9c13b18d30 <br>
+5. SQL(intermediate) - https://www.hackerrank.com/certificates/a4289f17be07 <br>
+6. SQL (advanced) -  https://www.hackerrank.com/certificates/d7e3a7aa5101 <br>
 
 
 ----------------------------------------------------------------------------------------
-Kaggle - 
-https://www.kaggle.com/learn/certification/armangrewal007/intro-to-machine-learning
+Kaggle -  <br>
+1. https://www.kaggle.com/learn/certification/armangrewal007/intro-to-machine-learning <br>
 
 
 
-----------------------------------------------------------------------------------------
-Free Code Camp - 
-https://www.freecodecamp.org/certification/ArmanGrewal007/responsive-web-design
+---------------------------------------------------------------------------------------- 
+Free Code Camp -  <br>
+1. https://www.freecodecamp.org/certification/ArmanGrewal007/responsive-web-design <br>
