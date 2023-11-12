@@ -18,3 +18,7 @@ Kaggle -  <br>
 ---------------------------------------------------------------------------------------- 
 Free Code Camp -  <br>
 1. https://www.freecodecamp.org/certification/ArmanGrewal007/responsive-web-design <br>
+
+-----------------------------------
+GraphAcademy - <br>
+1. Neo4j fundamentals - https://graphacademy.neo4j.com/c/74d71b36-ab19-461f-9663-0b580a45c0ab/
