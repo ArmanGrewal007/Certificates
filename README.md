@@ -21,5 +21,6 @@ Free Code Camp -  <br>
 
 -----------------------------------
 GraphAcademy - <br>
-1. neo4j fundamentals - https://graphacademy.neo4j.com/c/74d71b36-ab19-461f-9663-0b580a45c0ab/
+1. neo4j fundamentals - https://graphacademy.neo4j.com/c/ea2491cc-52f9-4ab1-ba32-c9bd738ee132/
 2. 🙌 neo4j certified professional - https://graphacademy.neo4j.com/c/5fc672a6-5bf9-4611-aaba-bbe70f24ede8/
+3. 
