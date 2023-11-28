@@ -44,3 +44,5 @@ Coursera
 - RH134 completion https://rha.ole.redhat.com/rha/api/certificates/attendance/uuid/25af4309-51c1-42bd-9c83-4653423b454c
 - DSA self paced GFG https://media.geeksforgeeks.org/courses/certificates/b8aa98918f9316c64809221070cf861e.pdf
 - Data analysis Zero to Pandas - https://jovian.com/certificate/MFQTENBWGQ
+- Postman API Fundamentals Student Expert - https://badgr.com/public/assertions/2hbUR5fVT2y7pMMlQiCh6g?identity__email=armansinghgrewal@gmail.com&action=download
+---------------------------
