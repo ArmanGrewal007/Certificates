@@ -31,6 +31,9 @@ Redis
 1. RU101 intro to Redis Data Structures - https://university.redis.com/certificates/7c20fc246e7144caa802e8c4a837c98f
 
 ------------------------
+MATLAB
+1. MATLAB Onramp - https://matlabacademy.mathworks.com/progress/certificate.pdf?course=gettingstarted&release=R2023b&language=en&
+---------------------
 Infosys
 1. DBMS1 - https://drive.google.com/file/d/13pBxS03kjjsSEkm9PChN73F3Vn5aaET3/view
 2. DBMS2 - https://drive.google.com/file/d/1MkskNH-SHX6BsAvWD9SyxI8sTi-Q_JtX/view?pli=1
