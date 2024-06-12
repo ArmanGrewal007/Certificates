@@ -49,3 +49,8 @@ Coursera
 - Data analysis Zero to Pandas - https://jovian.com/certificate/MFQTENBWGQ
 - Postman API Fundamentals Student Expert - https://badgr.com/public/assertions/2hbUR5fVT2y7pMMlQiCh6g?identity__email=armansinghgrewal@gmail.com&action=download
 ---------------------------
+MongoDB courses
+I have downloaded the certificates, but they don't have the link. <br>
+Go to https://learn.mongodb.com/dashboard and for each course:
+    - click on `Proof of Completion` to get the pdf link
+    - click on `Share to LinkedIn` to get another beautiful link
